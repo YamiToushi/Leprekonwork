@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  },
+  "name": "user.json",
+  "version": "1.0.0",
+  "description": "for flutter app",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "run-server": "json-server --host 192.168.199.225 lib/db/user.json"
+  },
+  "author": "",
+  "license": "ISC"
+}

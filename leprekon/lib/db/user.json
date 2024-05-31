@@ -1,0 +1,8 @@
+{
+    "user": {
+        "email":"john@gmail.com",
+        "password":"123456",
+        "name":"John",
+        "xp": 2700       
+    }
+}
